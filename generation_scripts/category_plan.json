@@ -1,0 +1,342 @@
+[
+  {
+    "category": "Writing & Content Creation",
+    "count": 1500,
+    "subcategories": [
+      "Blog Posts",
+      "Copywriting",
+      "Technical Writing",
+      "Creative Writing",
+      "Storytelling",
+      "Article Writing",
+      "Newsletter Content",
+      "White Papers",
+      "Case Studies",
+      "Press Releases",
+      "Product Descriptions",
+      "Landing Pages",
+      "Email Content",
+      "Scripts & Screenwriting",
+      "Poetry & Verse"
+    ]
+  },
+  {
+    "category": "Code & Development",
+    "count": 1500,
+    "subcategories": [
+      "Debugging",
+      "Code Generation",
+      "Code Review",
+      "Refactoring",
+      "Documentation",
+      "Algorithm Design",
+      "Testing",
+      "API Development",
+      "Database Design",
+      "Frontend Development",
+      "Backend Development",
+      "DevOps",
+      "Security",
+      "Performance Optimization",
+      "Code Translation"
+    ]
+  },
+  {
+    "category": "Business & Marketing",
+    "count": 1200,
+    "subcategories": [
+      "Marketing Strategy",
+      "Advertising Copy",
+      "SEO Content",
+      "Email Campaigns",
+      "Market Analysis",
+      "Competitive Research",
+      "Brand Strategy",
+      "Product Marketing",
+      "Social Media Marketing",
+      "Content Strategy",
+      "Growth Hacking",
+      "Customer Acquisition"
+    ]
+  },
+  {
+    "category": "Education & Learning",
+    "count": 1000,
+    "subcategories": [
+      "Lesson Plans",
+      "Educational Content",
+      "Tutoring",
+      "Curriculum Design",
+      "Assessment Creation",
+      "Study Guides",
+      "Explanations",
+      "Training Materials",
+      "E-Learning Content",
+      "Quiz Generation"
+    ]
+  },
+  {
+    "category": "Data Analysis & Research",
+    "count": 1000,
+    "subcategories": [
+      "Data Interpretation",
+      "Statistical Analysis",
+      "Research Synthesis",
+      "Data Visualization",
+      "Survey Analysis",
+      "Trend Analysis",
+      "Predictive Analysis",
+      "Report Generation",
+      "Insights Extraction",
+      "Academic Research"
+    ]
+  },
+  {
+    "category": "Creative & Design",
+    "count": 800,
+    "subcategories": [
+      "Brainstorming",
+      "Creative Concepts",
+      "Design Briefs",
+      "Art Direction",
+      "Visual Storytelling",
+      "Brand Identity",
+      "UI/UX Design",
+      "Creative Strategy",
+      "Naming & Taglines",
+      "Mood Boards"
+    ]
+  },
+  {
+    "category": "Productivity & Planning",
+    "count": 800,
+    "subcategories": [
+      "Task Management",
+      "Goal Setting",
+      "Time Management",
+      "Workflow Optimization",
+      "Project Planning",
+      "Priority Setting",
+      "Meeting Planning",
+      "Process Improvement",
+      "Decision Making",
+      "Resource Planning"
+    ]
+  },
+  {
+    "category": "Communication & Email",
+    "count": 700,
+    "subcategories": [
+      "Professional Emails",
+      "Business Letters",
+      "Presentations",
+      "Meeting Agendas",
+      "Reports",
+      "Memos",
+      "Proposals",
+      "Executive Summaries",
+      "Status Updates",
+      "Announcements"
+    ]
+  },
+  {
+    "category": "Customer Support",
+    "count": 700,
+    "subcategories": [
+      "Support Responses",
+      "FAQ Generation",
+      "Troubleshooting Guides",
+      "Help Documentation",
+      "Customer Communication",
+      "Complaint Resolution",
+      "Onboarding Messages",
+      "Knowledge Base Articles"
+    ]
+  },
+  {
+    "category": "Legal & Compliance",
+    "count": 600,
+    "subcategories": [
+      "Contract Review",
+      "Policy Drafting",
+      "Compliance Checks",
+      "Legal Summaries",
+      "Terms & Conditions",
+      "Privacy Policies",
+      "Risk Assessment",
+      "Legal Research",
+      "Regulatory Analysis",
+      "Disclaimer Creation"
+    ]
+  },
+  {
+    "category": "Healthcare & Medical",
+    "count": 600,
+    "subcategories": [
+      "Patient Communication",
+      "Medical Documentation",
+      "Health Education",
+      "Clinical Notes",
+      "Treatment Plans",
+      "Medical Research",
+      "Healthcare Marketing",
+      "Wellness Content",
+      "Medical Summaries",
+      "Patient Instructions"
+    ]
+  },
+  {
+    "category": "Finance & Accounting",
+    "count": 600,
+    "subcategories": [
+      "Financial Analysis",
+      "Budgeting",
+      "Financial Reporting",
+      "Investment Research",
+      "Accounting Documentation",
+      "Financial Planning",
+      "Tax Preparation",
+      "Audit Support",
+      "Cost Analysis",
+      "Financial Forecasting"
+    ]
+  },
+  {
+    "category": "HR & Recruitment",
+    "count": 600,
+    "subcategories": [
+      "Job Descriptions",
+      "Interview Questions",
+      "Performance Reviews",
+      "Onboarding Materials",
+      "Employee Handbooks",
+      "Recruitment Marketing",
+      "Training Programs",
+      "HR Policies",
+      "Compensation Analysis",
+      "Talent Assessment"
+    ]
+  },
+  {
+    "category": "Sales & CRM",
+    "count": 600,
+    "subcategories": [
+      "Sales Pitches",
+      "Lead Qualification",
+      "Customer Outreach",
+      "Proposals",
+      "Sales Scripts",
+      "Follow-up Messages",
+      "Deal Negotiation",
+      "Sales Presentations",
+      "Pipeline Management",
+      "Account Management"
+    ]
+  },
+  {
+    "category": "Social Media",
+    "count": 700,
+    "subcategories": [
+      "Post Creation",
+      "Engagement Strategies",
+      "Content Calendars",
+      "Captions",
+      "Hashtag Strategy",
+      "Community Management",
+      "Influencer Outreach",
+      "Social Media Ads",
+      "Platform-Specific Content",
+      "Viral Content"
+    ]
+  },
+  {
+    "category": "SEO & Web Content",
+    "count": 600,
+    "subcategories": [
+      "Meta Descriptions",
+      "Keyword Research",
+      "Content Optimization",
+      "Link Building",
+      "SEO Audits",
+      "Local SEO",
+      "Technical SEO",
+      "Content Clusters",
+      "Schema Markup",
+      "SEO Strategy"
+    ]
+  },
+  {
+    "category": "Personal Development",
+    "count": 600,
+    "subcategories": [
+      "Self-Reflection",
+      "Goal Setting",
+      "Habit Formation",
+      "Career Advice",
+      "Life Coaching",
+      "Motivation",
+      "Skill Development",
+      "Personal Branding",
+      "Mindfulness",
+      "Work-Life Balance"
+    ]
+  },
+  {
+    "category": "Entertainment & Gaming",
+    "count": 500,
+    "subcategories": [
+      "Game Design",
+      "Storytelling",
+      "Character Development",
+      "World-Building",
+      "Quest Design",
+      "Dialogue Writing",
+      "Game Mechanics",
+      "Level Design",
+      "Narrative Design",
+      "Entertainment Content"
+    ]
+  },
+  {
+    "category": "Science & Technology",
+    "count": 600,
+    "subcategories": [
+      "Research Summaries",
+      "Technical Explanations",
+      "Innovation Ideation",
+      "Scientific Writing",
+      "Technology Analysis",
+      "Patent Research",
+      "Lab Documentation",
+      "Scientific Communication",
+      "Tech Reviews",
+      "Future Forecasting"
+    ]
+  },
+  {
+    "category": "General Purpose & Utilities",
+    "count": 4800,
+    "subcategories": [
+      "Summarization",
+      "Translation",
+      "Formatting",
+      "Extraction",
+      "Transformation",
+      "Rewriting",
+      "Proofreading",
+      "Editing",
+      "Comparison",
+      "Classification",
+      "Generation",
+      "Analysis",
+      "Organization",
+      "Conversion",
+      "Optimization",
+      "Validation",
+      "Simplification",
+      "Expansion",
+      "Personalization",
+      "Automation"
+    ]
+  }
+]
